@@ -1,5 +1,5 @@
 # Algorithm
-This repository includes all the algorithm and problem-solving that I solved in <a href='https://leetcode.com/'>LeetCode</a>
+This repository includes all the algorithms and problem-solving that I solved <a href='https://leetcode.com/'>@LeetCode</a>
 
 Here is a List of them based on the difficulty:
 
