@@ -2,7 +2,7 @@
 
 <p>Roman numerals are represented by seven different symbols: <code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
-<img src=""/>
+<img src="https://github.com/alirabah93/Algorithm/blob/master/LeetCode/Easy/5.%20Roman%20to%20Integer/pic.jpg"/>
 
 <p>For example, <code>2</code> is written as <code>II</code> in Roman numeral, just two ones added together. <code>12</code> is written as <code>XII</code>, which is simply <code>X + II</code>. The number <code>27</code> is written as <code>XXVII</code>, which is <code>XX + V + II</code></p>
 
