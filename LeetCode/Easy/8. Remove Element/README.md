@@ -13,7 +13,7 @@
 <p>The judge will test your solution with the following code:</p>
 
 
-<img src=""/>
+<img src="https://github.com/alirabah93/Algorithm/blob/master/LeetCode/Easy/8.%20Remove%20Element/pic.jpg"/>
 
 <p>If all assertions pass, then your solution will be <strong>accepted</strong>.</p>
 <hr>
