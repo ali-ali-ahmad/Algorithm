@@ -1,5 +1,5 @@
 <h1>Easy Challenges List</h1>
-<p>Below you can find the list of all the easy challenges that I have solved:</p>
+<p>Below you can find the list of the easy challenges that I have solved:</p>
 <ol>
     <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/1.%20Two%20Sum">Two Sum</a></li>
     <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/2.%20Search%20Insert%20Position">Search Insert Position</a></li>
