@@ -6,8 +6,8 @@
 
 
 <hr>
-<p>for more details, check the following link:</p>
-<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">LeetCode</a>
+<p>For more details, check the following link: <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">LeetCode</a></p>
+
 
 
 
