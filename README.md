@@ -1,5 +1,7 @@
 # Algorithm
-This repository includes all the algorithms and problem-solving that I solved <a href='https://leetcode.com/'>@LeetCode</a>
+
+You can pick any coding problem and try to solve it by yourself using the given description + LeetCode link for each
+Of course, you have the choice to just go and solve them without me on the website, either case, only open the solution file when you solve yours, it's for your own sake, buddy!
 
 Here is a List of them based on the difficulty:
 
