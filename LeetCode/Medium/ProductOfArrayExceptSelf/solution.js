@@ -16,5 +16,5 @@ let productExceptSelf = function (nums) {
         product = 1;
         index++
     }
-    return output;
+    return output;
 };
