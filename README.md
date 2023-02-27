@@ -29,6 +29,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SubtractTheProductAndSumOfDigitsOfAnInteger">Subtract the Product and Sum of Digits of an Integer</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/TwoSum">Two Sum</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ValidParentheses">Valid Parentheses</a></li>
+            <li><a href="">XOR Operation in an Array</a></li>
         </ul>
     </div>
     <div>
