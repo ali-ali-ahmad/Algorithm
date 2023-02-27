@@ -36,6 +36,7 @@ Here is a List of them based on the difficulty:
         <h4>Medium</h4>
         <ul>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/CapacityToShipPackagesWithinDDays">Capacity To Ship Packages Within D Days</a></li>
+            <li><a href="">Pow(x, n)</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ProductOfArrayExceptSelf">Product of Array Except Self</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ReverseInteger">Reverse Integer</a></li>
         </ul>
