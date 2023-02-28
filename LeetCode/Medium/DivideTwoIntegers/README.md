@@ -6,7 +6,7 @@
 
 <p>Return the <strong>quotient</strong> after dividing <code>dividend</code> by <code>divisor</code>.</p>
 
-<p><strong>Note</strong>: Assume we are dealing with an environment that could only store integers within the <strong>32-bit</strong> signed integer range: <code>[−2 pwer to 31, 2 pwer to 31 − 1]</code>. For this problem, if the quotient is <strong>strictly greater than</strong> <code>2 power to 31 - 1</code>, then return <code>2 power to 31 - 1</code>, and if the quotient is <strong>strictly less than</strong> <code>-2 power to 31</code>, then return <code>-2 power to 31</code>.</p>
+<p><strong>Note</strong>: Assume we are dealing with an environment that could only store integers within the <strong>32-bit</strong> signed integer range: <code>[−2 power to 31, 2 power to 31 − 1]</code>. For this problem, if the quotient is <strong>strictly greater than</strong> <code>2 power to 31 - 1</code>, then return <code>2 power to 31 - 1</code>, and if the quotient is <strong>strictly less than</strong> <code>-2 power to 31</code>, then return <code>-2 power to 31</code>.</p>
 
 
 <hr>
