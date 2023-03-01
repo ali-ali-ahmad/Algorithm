@@ -3,7 +3,7 @@
 <p>Given an integer <code>n</code>, return the count of all numbers with unique digits, <code>x</code>, where <code>0 <= x < 10 power to n</code>.</p>
 
 
-```java
+```
  * @param {number} n
  * @return {number}
  */
