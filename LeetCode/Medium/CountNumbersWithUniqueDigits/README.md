@@ -2,9 +2,8 @@
 
 <p>Given an integer <code>n</code>, return the count of all numbers with unique digits, <code>x</code>, where <code>0 <= x < 10 power to n</code>.</p>
 
-<code>
-```
-/**
+
+```javaScript
  * @param {number} n
  * @return {number}
  */
@@ -19,12 +18,6 @@ var countNumbersWithUniqueDigits = function(n) {
     }
     return ans;
 };
-```
-</code>
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
 
 <hr>
