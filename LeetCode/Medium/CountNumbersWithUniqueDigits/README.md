@@ -21,7 +21,11 @@ var countNumbersWithUniqueDigits = function(n) {
 };
 ```
 </code>
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 <hr>
 <p>For more details, check the following link: <a href="https://leetcode.com/problems/count-numbers-with-unique-digits/">LeetCode</a></p>
