@@ -1,7 +1,7 @@
 <h1>Count Numbers with Unique Digits</h1>
 
 <p>Given an integer <code>n</code>, return the count of all numbers with unique digits, <code>x</code>, where <code>0 <= x < 10 power to n</code>.</p>
-```
+<code>
 var countNumbersWithUniqueDigits = function(n) {
     if (n === 0) {
         return 1;
@@ -13,7 +13,7 @@ var countNumbersWithUniqueDigits = function(n) {
     }
     return ans;
 };
-```
+</code>
 
 
 <hr>
