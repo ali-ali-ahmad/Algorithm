@@ -35,11 +35,11 @@ Here is a List of them based on the difficulty:
     <div>
         <h4>Medium</h4>
         <ul>
-            <li><a href="">Can I Win</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/CanIWin">Can I Win</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/CapacityToShipPackagesWithinDDays">Capacity To Ship Packages Within D Days</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/CountNumbersWithUniqueDigits">Count Numbers with Unique Digits</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/DivideTwoIntegers">Divide Two Integers</a></li>
-            <li><a href="">Find the Index of the First Occurrence in a String</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/FindTheIndexOfTheFirstOccurrenceInAString">Find the Index of the First Occurrence in a String</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/Pow(x%2C%20n)">Pow(x, n)</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ProductOfArrayExceptSelf">Product of Array Except Self</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ReverseInteger">Reverse Integer</a></li>
