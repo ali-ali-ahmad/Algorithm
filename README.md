@@ -43,7 +43,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/Pow(x%2C%20n)">Pow(x, n)</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ProductOfArrayExceptSelf">Product of Array Except Self</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/ReverseInteger">Reverse Integer</a></li>
-            <li><a href="">Successful Pairs of Spells and Potions</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/SuccessfulPairsOfSpellsAndPotions">Successful Pairs of Spells and Potions</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/SuperUglyNumber">Super Ugly Number</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Medium/UglyNumberII">Ugly Number II</a></li>
         </ul>
