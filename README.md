@@ -15,7 +15,9 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertTheTemperature">Convert the Temperature</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/CountTheDigitsThatDivideANumber">Count the Digits That Divide a Number</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LengthOfLastWord">Length of Last Word</a></li>
+            <li><a href="file:///LeetCode/Easy/LinkedListCycle">Linked List Cycle</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LongestCommonPrefix">Longest Common Prefix</a></li>
+            <li><a href="">Merge Sorted Array</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfGoodPairs">Number of Good Pairs</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfStepsToReduceANumberToZero">Number of Steps to Reduce a Number to Zero</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PalindromeNumber">Palindrome Number</a></li>
