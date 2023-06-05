@@ -24,6 +24,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PalindromeNumber">Palindrome Number</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PlusOne">Plus One</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PowerOfTwo">Power of Two</a></li>
+            <li><a href="">Ransom Note</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RemoveElement">Remove Element</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RomanToInteger">Roman to Integer</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SearchInsertPosition">Search Insert Position</a></li>
