@@ -26,6 +26,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfGoodPairs">Number of Good Pairs</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfStepsToReduceANumberToZero">Number of Steps to Reduce a Number to Zero</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PalindromeNumber">Palindrome Number</a></li>
+            <li><a href="">Path Sum</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PlusOne">Plus One</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PowerOfTwo">Power of Two</a></li>
             <li><a href="">Ransom Note</a></li>
