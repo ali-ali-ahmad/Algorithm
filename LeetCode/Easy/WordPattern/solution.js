@@ -12,13 +12,13 @@ var wordPattern = function(pattern, s) {
         const sWord = sArr[i];
 
         if (!sMap.has(sWord) && !patternMap.has(patternChar)) {
-        sMap.set(sWord, patternChar);
-        patternMap.set(patternChar, sWord);
+            sMap.set(sWord, patternChar);
+            patternMap.set(patternChar, sWord);
         } else if (
             sMap.get(sWord) !== patternChar 
             || patternMap.get(patternChar) !== sWord
-            ) {
-        return false;
+        ){
+            return false;
         }
     }
 
