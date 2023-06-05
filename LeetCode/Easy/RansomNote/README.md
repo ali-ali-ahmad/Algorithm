@@ -1,4 +1,4 @@
-<h1>Power of Two</h1>
+<h1>Ranson Note</h1>
 
 <p>Given two strings <code>ransomNote</code> and <code>magazine</code>, return <code>true</code> if <code>ransomNote</code> can be constructed by using the letters from <code>magazine</code> and <code>false</code> otherwise.</p>
 
