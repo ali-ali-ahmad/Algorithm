@@ -19,6 +19,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LengthOfLastWord">Length of Last Word</a></li>
             <li><a href="file:///LeetCode/Easy/LinkedListCycle">Linked List Cycle</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LongestCommonPrefix">Longest Common Prefix</a></li>
+            <li><a href="">Maximum Depth of Binary Tree</a></li>
             <li><a href="">Merge Sorted Array</a></li>
             <li><a href="">Merge Two Sorted Lists</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfGoodPairs">Number of Good Pairs</a></li>
