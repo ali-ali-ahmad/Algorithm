@@ -12,6 +12,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/AddTwoIntegers">Add Two Integers</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/BestTimeToBuyAndSellStock">Best Time to Buy and Sell Stock</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ClimbingStairs">Climbing Stairs</a></li>
+            <li><a href="">Convert Sorted Array to Binary Search Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertTheTemperature">Convert the Temperature</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/CountTheDigitsThatDivideANumber">Count the Digits That Divide a Number</a></li>
             <li><a href="">Invert Binary Tree</a></li>
