@@ -9,42 +9,42 @@ Here is a List of them based on the difficulty:
     <div>
         <h4>Easy</h4>
         <ul>
-            <li><a href="">Add Binary</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/AddBinary">Add Binary</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/AddTwoIntegers">Add Two Integers</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/BestTimeToBuyAndSellStock">Best Time to Buy and Sell Stock</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ClimbingStairs">Climbing Stairs</a></li>
-            <li><a href="">Convert Sorted Array to Binary Search Tree</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertSortedArrayToBinarySearchTree">Convert Sorted Array to Binary Search Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertTheTemperature">Convert the Temperature</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/CountTheDigitsThatDivideANumber">Count the Digits That Divide a Number</a></li>
-            <li><a href="">Invert Binary Tree</a></li>
-            <li><a href="">Isomorphic Strings</a></li>
-            <li><a href="">Is Subsequence</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/InvertBinaryTree">Invert Binary Tree</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/IsomorphicStrings">Isomorphic Strings</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/IsSubsequence">Is Subsequence</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LengthOfLastWord">Length of Last Word</a></li>
-            <li><a href="file:///LeetCode/Easy/LinkedListCycle">Linked List Cycle</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LinkedListCycle">Linked List Cycle</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/LongestCommonPrefix">Longest Common Prefix</a></li>
-            <li><a href="">Maximum Depth of Binary Tree</a></li>
-            <li><a href="">Merge Sorted Array</a></li>
-            <li><a href="">Merge Two Sorted Lists</a></li>
-            <li><a href="">Minimum Absolute Difference in BST</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/MaximumDepthOfBinaryTree">Maximum Depth of Binary Tree</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/blob/master/LeetCode/Easy/MergeSortedArray/README.md">Merge Sorted Array</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/MergeTwoSortedLists">Merge Two Sorted Lists</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/MinimumAbsoluteDifferenceInBST">Minimum Absolute Difference in BST</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfGoodPairs">Number of Good Pairs</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/NumberOfStepsToReduceANumberToZero">Number of Steps to Reduce a Number to Zero</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PalindromeNumber">Palindrome Number</a></li>
-            <li><a href="">Path Sum</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PathSum">Path Sum</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PlusOne">Plus One</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/PowerOfTwo">Power of Two</a></li>
-            <li><a href="">Ransom Note</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RansomNote">Ransom Note</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RemoveElement">Remove Element</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RomanToInteger">Roman to Integer</a></li>
-            <li><a href="">Same Tree</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SameTree">Same Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SearchInsertPosition">Search Insert Position</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SmallestEvenMultiple">Smallest Even Multiple</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/Sqrt(x)">Sqrt(x)</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SubtractTheProductAndSumOfDigitsOfAnInteger">Subtract the Product and Sum of Digits of an Integer</a></li>
-            <li><a href="">Symmetric Tree</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SymmetricTree">Symmetric Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/TwoSum">Two Sum</a></li>
-            <li><a href="">Valid Palindrome</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ValidPalindrome">Valid Palindrome</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ValidParentheses">Valid Parentheses</a></li>
-            <li><a href="">Word Pattern</a></li>
+            <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/WordPattern">Word Pattern</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/XOROperationInAnArray">XOR Operation in an Array</a></li>
         </ul>
     </div>
