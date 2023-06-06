@@ -16,6 +16,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertSortedArrayToBinarySearchTree">Convert Sorted Array to Binary Search Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ConvertTheTemperature">Convert the Temperature</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/CountTheDigitsThatDivideANumber">Count the Digits That Divide a Number</a></li>
+            <li><a href="">Happy Number</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/InvertBinaryTree">Invert Binary Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/IsomorphicStrings">Isomorphic Strings</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/IsSubsequence">Is Subsequence</a></li>
