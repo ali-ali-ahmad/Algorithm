@@ -1,6 +1,6 @@
 <h1>Summary Ranges</h1>
 
-<p>You are given a sorted unique integer array <code></code>nums.</p>
+<p>You are given a sorted unique integer array <code>nums</code>.</p>
 
 <p>A range <code>[a,b]</code> is the set of all integers from <code>a</code> to <code>b</code> (inclusive).</p>
 
