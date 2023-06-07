@@ -44,6 +44,7 @@ Here is a List of them based on the difficulty:
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/RomanToInteger">Roman to Integer</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SameTree">Same Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SearchInsertPosition">Search Insert Position</a></li>
+            <li><a href="">Single Number</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SmallestEvenMultiple">Smallest Even Multiple</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/Sqrt(x)">Sqrt(x)</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/SubtractTheProductAndSumOfDigitsOfAnInteger">Subtract the Product and Sum of Digits of an Integer</a></li>
