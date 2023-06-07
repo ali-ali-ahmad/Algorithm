@@ -11,6 +11,7 @@ Here is a List of them based on the difficulty:
         <ul>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/AddBinary">Add Binary</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/AddTwoIntegers">Add Two Integers</a></li>
+            <li><a href="">Average of Levels in Binary Tree</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/BestTimeToBuyAndSellStock">Best Time to Buy and Sell Stock</a></li>
             <li><a href="https://github.com/alirabah93/Algorithm/tree/master/LeetCode/Easy/ClimbingStairs">Climbing Stairs</a></li>
             <li><a href="">Contains Duplicate II</a></li>
